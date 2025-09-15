@@ -1,43 +1,38 @@
-# Data-analyst-project-1
-# 고객 경험 개선을 위한 CS 데이터 분석 프로젝트
-
-# 프로젝트 개요 (Introduction)
-이 프로젝트는 가상의 LG전자 고객센터 티켓 데이터를 기반으로, 고객 문의 현황의 문제점을 진단하고 서비스 품질 개선 방안을 도출하는 것을 목표로 합니다.
-데이터 분석을 통해 비즈니스 문제를 해결하는 역량을 보여주고자 합니다.
-
-# 이 프로젝트의 분석 과정은 아래 파일들로 구성되어 있습니다.
-1. installation.py: 데이터 로딩 및 전처리 모듈
-   - 모든 분석 파일에서 공통으로 사용하는 데이터 준비용 '도구 상자'입니다.
-2. question1.py: 문의 유형별 현황 분석
-    - 고객센터에 접수된 문의 중 어떤 유형이 가장 많은지 파악하여 핵심 문제를 발견합니다.
-3. question2.py: 근본 원인 분석
-    - 가장 큰 문제로 발견된 '제품 불량'이 어떤 제품군에서 집중적으로 발생하는지 파고들어 문제의 근원을 찾습니다.
-4. question3.py: 비즈니스 임팩트 분석
-    - 단순 문의 건수를 넘어, 어떤 문제가 회사의 시간과 비용(리소스)을 가장 많이 소모시키는지 분석합니다.
-5. question3.py: 상담원별 성과 분석
-    - 각 상담원의 평균 처리 시간과 고객 만족도를 분석하여 인적 자원 관리의 근거를 마련합니다.
-
----
-
-# 핵심 문제 발견 (Key Problem)
-1.  가장 시급한 문제:'제품 불량'(전체 문의의 35%가 '제품 불량' 관련으로, 고객 만족도 하락의 주된 원인입니다.)
-2.  '냉장고' 제품군 문제 집중: '제품 불량' 문의의 약 60%가 '냉장고'에서 발생하여 특정 제품 라인의 집중 관리가 필요함을 확인했습니다.
-3.  높은 숨은 비용 발생: '제품 불량' 문의는 건수가 많을 뿐만 아니라, 총 상담 리소스의 41%를 소모하여 비즈니스 비용 부담을 가중시키고 있습니다.
-
----
-
-# 최종 제안 (Recommendations)
-- 단기: '냉장고 제품 불량' 전문 상담 프로세스를 구축하고, 관련 상담원의 집중 교육 및 상담 건수 분배 재검토가 필요합니다.
-- 장기: 본 분석 데이터를 품질 관리(QA) 부서와 정기적으로 공유하여, 근본적인 제품 불량률 감소를 위한 개선 활동의 근거로 활용할 것을 제안합니다.
-
----
-
-# 최종 대시보드
-분석 결과를 시각화한 인터랙티브 대시보드는 아래 링크에서 확인하실 수 있습니다.
-- Tableau Public 대시보드 -> (https://public.tableau.com/views/CSOperationsDashboardforCustomerExperienceImprovement_LG/1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-(대시보드 스크린샷)
+# Customer Experience Enhancement through Customer Service Data Analysis
 
 
+# Project Overview
+This project analyzes simulated LG Electronics customer service ticket data to diagnose issues in customer inquiries and propose strategies for improving service quality. The objective is to demonstrate the ability to leverage data analytics to address business challenges and drive actionable improvements.
+
+
+# Project Structure
+1. installation.py: Data loading and preprocessing module serving as a shared toolkit.
+2. question1.py: Inquiry type analysis to identify the most frequent issues.
+3. question2.py: Root cause analysis focusing on product defect inquiries by product category.
+4. question3.py: Business impact assessment of inquiries in terms of time and resource consumption.
+5. question4.py: Agent performance analysis measuring average handling time and customer satisfaction.
+
+
+# Key Findings
+1.  Product defects as the most critical issue
+      – 35% of all inquiries were defect-related, significantly impacting customer satisfaction.
+3. Concentration in refrigerator products
+      – Nearly 60% of defect inquiries originated from the refrigerator line, indicating a need for targeted quality control.
+5. Substantial hidden costs
+      – Defect-related cases accounted for 41% of total service resources, imposing a considerable operational burden.
+
+
+# Recommendations
+- Short term:
+     Implement a specialized support process for refrigerator defect cases, provide targeted training for agents, and optimize workload distribution.
+- Long term:
+     Share analysis results regularly with the Quality Assurance team to support systemic product improvements and reduce defect rates over time.
+
+  
+# Dashboard(Deliverables)
+- Tableau Public Dashboard
+     > https://public.tableau.com/views/CSOperationsDashboardforCustomerExperienceImprovement_LG/1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Dashboard Screenshot
+     > https://github.com/best1006jh/Data-analyst-project-1/blob/main/CS%20Operation_LG.png?raw=true
 
 
