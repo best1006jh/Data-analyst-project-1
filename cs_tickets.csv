@@ -1,0 +1,101 @@
+ticket_id,request_date,product_category,inquiry_type,channel,processing_time_hours,agent_name,satisfaction_score
+1,2025-08-01,Refrigerator,Product Defect,Phone,48,Anna Kim,1
+2,2025-08-01,TV,Shipping Delay,Chat,7,Brian Lee,3
+3,2025-08-02,Washing Machine,How-to Question,Email,3,Clara Park,5
+4,2025-08-02,Refrigerator,Exchange/Refund,Phone,68,Emily Chen,2
+5,2025-08-03,TV,How-to Question,Chat,2,Clara Park,5
+6,2025-08-04,Refrigerator,Product Defect,Phone,55,Anna Kim,1
+7,2025-08-04,TV,Product Defect,Phone,35,David Jones,2
+8,2025-08-05,Refrigerator,Shipping Delay,Chat,12,Brian Lee,3
+9,2025-08-05,Washing Machine,Shipping Delay,Email,20,Emily Chen,2
+10,2025-08-06,TV,How-to Question,Chat,1,Clara Park,5
+11,2025-08-07,Refrigerator,Product Defect,Phone,45,Anna Kim,2
+12,2025-08-07,Washing Machine,Product Defect,Phone,41,David Jones,1
+13,2025-08-08,TV,Exchange/Refund,Phone,58,Emily Chen,3
+14,2025-08-08,Refrigerator,How-to Question,Chat,4,Brian Lee,4
+15,2025-08-09,Refrigerator,Product Defect,Phone,51,Anna Kim,1
+16,2025-08-10,TV,Shipping Delay,Chat,6,Clara Park,4
+17,2025-08-11,Washing Machine,How-to Question,Email,5,David Jones,5
+18,2025-08-11,Refrigerator,Product Defect,Phone,60,Anna Kim,1
+19,2025-08-12,TV,How-to Question,Chat,2,Brian Lee,5
+20,2025-08-12,Refrigerator,Shipping Delay,Chat,15,Clara Park,3
+21,2025-08-13,Washing Machine,Exchange/Refund,Phone,70,Emily Chen,1
+22,2025-08-14,Refrigerator,Product Defect,Phone,49,Anna Kim,2
+23,2025-08-14,TV,Product Defect,Phone,33,David Jones,2
+24,2025-08-15,Refrigerator,How-to Question,Chat,3,Clara Park,5
+25,2025-08-15,Washing Machine,Shipping Delay,Email,18,Emily Chen,3
+26,2025-08-16,TV,Shipping Delay,Chat,8,Brian Lee,4
+27,2025-08-17,Refrigerator,Product Defect,Phone,53,Anna Kim,1
+28,2025-08-18,TV,How-to Question,Chat,1,Clara Park,5
+29,2025-08-18,Washing Machine,Product Defect,Phone,38,David Jones,2
+30,2025-08-19,Refrigerator,Exchange/Refund,Phone,71,Anna Kim,1
+31,2025-08-20,TV,Shipping Delay,Email,22,Emily Chen,3
+32,2025-08-21,Refrigerator,Product Defect,Phone,50,David Jones,1
+33,2025-08-21,Washing Machine,How-to Question,Chat,4,Brian Lee,5
+34,2025-08-22,TV,Product Defect,Phone,36,Emily Chen,2
+35,2025-08-22,Refrigerator,Shipping Delay,Chat,13,Clara Park,4
+36,2025-08-23,Refrigerator,Product Defect,Phone,47,Anna Kim,1
+37,2025-08-24,TV,How-to Question,Chat,2,Brian Lee,5
+38,2025-08-25,Washing Machine,Shipping Delay,Email,24,David Jones,2
+39,2025-08-25,Refrigerator,Exchange/Refund,Phone,65,Emily Chen,1
+40,2025-08-26,TV,Shipping Delay,Chat,9,Clara Park,4
+41,2025-08-27,Refrigerator,Product Defect,Phone,58,Anna Kim,1
+42,2025-08-27,TV,How-to Question,Email,6,Brian Lee,5
+43,2025-08-28,Washing Machine,Product Defect,Phone,42,David Jones,2
+44,2025-08-28,Refrigerator,How-to Question,Chat,3,Clara Park,5
+45,2025-08-29,Refrigerator,Shipping Delay,Chat,11,Emily Chen,3
+46,2025-08-30,TV,Product Defect,Phone,39,Anna Kim,2
+47,2025-08-31,Washing Machine,How-to Question,Chat,2,Clara Park,5
+48,2025-09-01,Refrigerator,Product Defect,Phone,52,David Jones,1
+49,2025-09-01,TV,Shipping Delay,Email,19,Brian Lee,3
+50,2025-09-02,Refrigerator,Exchange/Refund,Phone,69,Emily Chen,1
+51,2025-09-02,Washing Machine,Shipping Delay,Chat,14,Anna Kim,3
+52,2025-09-03,TV,How-to Question,Chat,1,Clara Park,5
+53,2025-09-04,Refrigerator,Product Defect,Phone,46,David Jones,2
+54,2025-09-04,Washing Machine,Product Defect,Phone,44,Emily Chen,1
+55,2025-09-05,TV,Shipping Delay,Chat,10,Brian Lee,4
+56,2025-09-05,Refrigerator,How-to Question,Email,7,Clara Park,5
+57,2025-09-06,Refrigerator,Product Defect,Phone,56,Anna Kim,1
+58,2025-09-07,TV,Exchange/Refund,Phone,62,Emily Chen,2
+59,2025-09-08,Washing Machine,How-to Question,Chat,3,Brian Lee,5
+60,2025-09-08,Refrigerator,Shipping Delay,Chat,16,David Jones,3
+61,2025-09-08,TV,Product Defect,Phone,32,Anna Kim,2
+62,2025-09-08,TV,How-to Question,Chat,2,Clara Park,5
+63,2025-09-09,Refrigerator,Product Defect,Phone,43,David Jones,2
+64,2025-09-09,Washing Machine,Shipping Delay,Email,21,Emily Chen,3
+65,2025-09-09,TV,Shipping Delay,Chat,5,Brian Lee,4
+66,2025-09-10,Refrigerator,How-to Question,Chat,4,Clara Park,4
+67,2025-09-10,TV,Product Defect,Phone,40,Anna Kim,1
+68,2025-09-10,Washing Machine,How-to Question,Email,6,David Jones,5
+69,2025-09-11,Refrigerator,Product Defect,Phone,54,Emily Chen,1
+70,2025-09-11,TV,Shipping Delay,Chat,7,Clara Park,4
+71,2025-09-11,Refrigerator,Exchange/Refund,Phone,66,Anna Kim,1
+72,2025-09-11,TV,How-to Question,Chat,1,Brian Lee,5
+73,2025-09-12,Washing Machine,Product Defect,Phone,37,David Jones,2
+74,2025-09-12,Refrigerator,Shipping Delay,Email,25,Emily Chen,2
+75,2025-09-12,TV,How-to Question,Chat,2,Clara Park,5
+76,2025-09-12,Refrigerator,Product Defect,Phone,57,Anna Kim,1
+77,2025-09-13,Washing Machine,Shipping Delay,Chat,17,Brian Lee,3
+78,2025-09-13,TV,Exchange/Refund,Phone,64,Emily Chen,2
+79,2025-09-13,Refrigerator,How-to Question,Email,8,Clara Park,5
+80,2025-09-13,Refrigerator,Product Defect,Phone,44,David Jones,2
+81,2025-09-13,Washing Machine,How-to Question,Chat,3,Anna Kim,5
+82,2025-09-14,TV,Product Defect,Phone,30,Brian Lee,3
+83,2025-09-14,Refrigerator,Shipping Delay,Chat,10,Clara Park,4
+84,2025-09-14,TV,How-to Question,Email,5,Emily Chen,5
+85,2025-09-14,Refrigerator,Product Defect,Phone,59,David Jones,1
+86,2025-09-14,TV,Shipping Delay,Chat,8,Anna Kim,4
+87,2025-09-14,Washing Machine,Product Defect,Phone,34,Brian Lee,2
+88,2025-09-14,Refrigerator,How-to Question,Chat,4,Clara Park,5
+89,2025-09-14,TV,Exchange/Refund,Phone,60,Emily Chen,2
+90,2025-09-14,Refrigerator,Product Defect,Phone,50,Anna Kim,1
+91,2025-09-14,TV,How-to Question,Chat,1,David Jones,5
+92,2025-09-14,Washing Machine,How-to Question,Email,7,Clara Park,4
+93,2025-09-14,Refrigerator,Shipping Delay,Chat,12,Brian Lee,3
+94,2025-09-14,TV,Product Defect,Phone,31,Emily Chen,3
+95,2025-09-14,Refrigerator,Product Defect,Phone,48,Anna Kim,1
+96,2025-09-14,Washing Machine,Exchange/Refund,Phone,72,David Jones,1
+97,2025-09-14,TV,How-to Question,Chat,2,Clara Park,5
+98,2025-09-14,Refrigerator,How-to Question,Email,9,Brian Lee,4
+99,2025-09-14,TV,Shipping Delay,Chat,9,Emily Chen,3
+100,2025-09-14,Refrigerator,Product Defect,Phone,61,Anna Kim,1
